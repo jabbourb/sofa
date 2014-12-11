@@ -16,6 +16,7 @@ set(SOURCE_FILES
     helper/system/atomic_test.cpp
     helper/logging/logging_test.cpp
     main.cpp
+    core/objectmodel/DataTest.cpp
 )
 
 include_directories(${gtest_SOURCE_DIR}/include)
