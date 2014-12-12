@@ -17,6 +17,7 @@ set(SOURCE_FILES
     helper/logging/logging_test.cpp
     main.cpp
     core/objectmodel/DataTest.cpp
+    core/objectmodel/DataTypeInfoTest.cpp
 )
 
 include_directories(${gtest_SOURCE_DIR}/include)
