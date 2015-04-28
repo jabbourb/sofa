@@ -16,6 +16,7 @@ set(SOURCE_FILES
     helper/system/atomic_test.cpp
     helper/logging/logging_test.cpp
     main.cpp
+    defaulttype/MapMapSparseMatrix_test
     core/objectmodel/DataTest.cpp
     core/objectmodel/DataTypeInfoTest.cpp
 )
